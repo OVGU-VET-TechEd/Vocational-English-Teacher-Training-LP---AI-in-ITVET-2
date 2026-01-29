@@ -1,0 +1,76 @@
+My Group: Teacher training
+
+We are a group of TVET experts, currently responsible with AI-enhanced design of a training program for Vocational English language classrooms
+
+We aim to train the teachers of Vocational English language classrooms
+
+We will Leverage AI tools to design, monitor, and refine a training program that is relevant to the needs of vocational English language classroom teachers, extend ideas on training content and training methods, especially utilizing and modernizing via generative AI tools.
+
+UNESCO AI Teacher's Competency Framework is our main source for deciding the activity, goal, competency and learning objective and we have chosen these: 
+
+
+Teacher Competency: 5.3 AI to support professional development:
+Teachers are able to customize and modify AI tools to meet their professional development needs and can continuously test and validate strategies on the effective use of AI to meet their own, and their communities' professional development needs.
+
+Curricular goal: CGS-3.1 
+Motivate teachers to be agents of change by organizing case studies and/or discussions on how expert teachers could become the protagonists of the transformation of education that AI may trigger; nurturing the traits of being agents of change with simulating examples and interesting exercises.
+
+Learning objective: LO5-3.2
+Blend AI tools and human coaching to facilitate well-informed self-reflection and assessment; goal setting and the mobilization of knowledge and human experiences for deep personal and collaborative transformation.
+
+Contextual Activity: 
+Build or utilize existing generative AI toolkits to customize an AI-assisted professional development to support activities such as self-assessment and diagnosis, as well as to simulate specific scenarios to practice skills and receive feedback (e.g. meeting with parents, students with learning difficulties or solving ethical dilemmas, and the use of AI, the AI agent or coach to help their peers as well)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Steps	Goal	Action and tool	Result
+
+Phase 1	Prepare the foundational base and outline 5 case studies where a Vocational English teacher acts as an agent of change	 NotebookLM – upload all pdfs regarding frameworks and rules to create a “in a nutshell” basis	Any output we get from AI will be aligned with the rules and frameworks (will be checked as well)
+
+Phase 2	Build the course skeleton 	Chatgpt for structure and Claude for Liascript coding	A course template for 'AI for Vocational English.' as an .md file ready for liascript 
+
+
+Phase 3	Building the "Contextual Activity" simulations 	Chatgpt 
+
+Provide prompts for realistic interaction scenarios for teachers	A set of 3-4 links to Custom GPTs that teachers interact with during the training.
+
+Phase 4	Visual content integration:
+
+Put the Case Studies which are generated in Phase 1 into Gamma 	Gamma 
+
+Embed these Gamma-generated visuals  directly into the LiaScript course	Visual and engaging material to be integrated into Liascript 
+
+Phase 5	Reflection & Assessment 
+
+Creating a "Reflection Partner" workflow. For teachers 	Claude 	After a teacher finishes a simulation (Phase 3), they copy the transcript into the "Reflection Partner." and provide a prompt tp it so it analyzes the output. 
+
+The teacher submits this AI-generated analysis + their own thoughts to a Human Trainer and prepares a portfolio of reflection
+
+**Video simulations that can be integrated into course to make it concrete -YT
+
+Deadline is 22.01 At least early access version “V1”
+
+
+
+
+
+

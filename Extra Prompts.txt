@@ -1,0 +1,31 @@
+Prompt to claude for v0.3
+
+Here is the current form of our liascript. Can you make these adjustments to the code of the .md file please: 
+
+
+On page 6, make sure there is a little more spaces between learning outcomes and key AI tools section. Page getting vertically longer is ok. 
+
+
+on page 10, make a little bit space between example comparison table and identify section 
+
+Merge activity 1 and 2 of phase 1 (pages 7 and 8) on one page, leaving a little bit of space in between
+
+Merge pages 12,13,14 and 15 and at page 15, critically review part, make sure these items are in one line with commas instead of going down vertically as a list: Technical accuracy, Politeness & intercultural tone, Industry appropriateness
+
+Merge pages 16, 17 and 18 in one page with a little bit of extra space between all sections 
+
+Merge pages 19 and 20 in one page with a little bit of extra space between all sections 
+
+
+After the modifications to page 21 is done, merge pages 21 and 22 with a little bit of extra space in-between
+
+Merge pages 23 and 24 in one page with a little bit of extra space between all sections 
+  
+Merge pages 25, 26 and 27 in one page with a little bit of extra space between all sections 
+
+On page 8: Include “Assessment”, “Evaluation” , “Assessment and evaluation”, “Self-reflection” , “reflection” as additional correct answers for activity 2
+
+For page 21, instead of the current question, add “what kind of teacher strategy can be designed for this?” question with the options: “Intervention” “Assessment” “Alignment” “Media-usage” 
+
+Make intervention the correct answer 
+
